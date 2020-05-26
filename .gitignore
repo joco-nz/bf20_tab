@@ -1,0 +1,25 @@
+/build
+/dist
+/venv
+*.egg-info
+*.pyc
+*.pdf
+*.log
+*.var
+*.var.bak
+*.bak
+*.pref
+*.halscope
+.uuid
+.tmp*
+.idea/
+*~
+*#
+
+# Compiled Qt resource and ui files
+*_rc.py
+*_ui.py
+
+# update INI backups
+sim/*.old
+*.pickle
